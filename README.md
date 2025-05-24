@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nicolas Ramos.
+# 👋 Hi, I'm Nicolas Ramos.
 
 I'm a senior Electrical Engineering student at the University of Miami with a focus on RF and analog systems. I enjoy designing RF PCBs, simulating high-frequency circuits, and exploring the physics of electromagnetic and signal behavior. I'm always eager to learn and actively seek opportunities to grow within the evolving field of RF and microwave engineering.
 
@@ -8,7 +8,7 @@ This portfolio showcases hands-on technical projects that I’ve developed or co
 
 ## 📡 RF & Analog Projects
 
-### 🔹 [Microstrip RF Interconnect Simulation](https://github.com/nicolasramosee/microstrip-rf-simulation)
+### 🔹 [Microstrip RF Interconnect Simulation](https://github.com/nicolasramosee/Microstrip-RF-Simulation)
 Simulates a 3-port microstrip structure with an open-circuited stub using the `scikit-rf` library. Analyzes S-parameters across a 1–10 GHz sweep to identify optimal impedance matching conditions and stub tuning effects.
 
 ### 🔹 [Wideband Analog PLL Signal Generator](https://github.com/yourusername/wideband-analog-pll)
