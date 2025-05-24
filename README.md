@@ -8,7 +8,7 @@ This portfolio showcases hands-on technical projects that I’ve developed or co
 
 ## 📡 RF & Analog Projects
 
-### 🔹 [Microstrip RF Interconnect Simulation](https://github.com/yourusername/microstrip-rf-simulation)
+### 🔹 [Microstrip RF Interconnect Simulation](https://github.com/nicolasramosee/microstrip-rf-simulation)
 Simulates a 3-port microstrip structure with an open-circuited stub using the `scikit-rf` library. Analyzes S-parameters across a 1–10 GHz sweep to identify optimal impedance matching conditions and stub tuning effects.
 
 ### 🔹 [Wideband Analog PLL Signal Generator](https://github.com/yourusername/wideband-analog-pll)
