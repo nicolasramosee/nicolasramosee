@@ -18,7 +18,7 @@ Designed and simulated a VCO-based PLL signal generator for analog RF testing, r
 
 ## 💻  Embedded Systems Projects
 
-### 🔹 [Study Space Occupancy System (IoT)](https://github.com/yourusername/study-space-sensor)
+### 🔹 [Study Space Occupancy System (IoT)](https://github.com/nicolasramosee/Study-Space-Availability-System)
 An ESP32-based occupancy monitoring system deployed within the University of Miami’s Richter Library. The system integrates VL53L5CX and VL53L1X LiDAR sensors, MEMS omnidirectional microphone-based audio analysis, and Wi-Fi sniffing to detect and estimate study area occupancy. A Firebase backend was used to enable real-time data updates and remote access to occupancy insights.
 
 
