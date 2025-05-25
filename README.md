@@ -36,5 +36,4 @@ An ESP32-based occupancy monitoring system deployed within the University of Mia
 **Get in Touch**  
 I'm always open to internships and full-time job opportunities, as well as RF-related project collaborations.  
 - Email: nmree25@gmail.com
-- Mobile: (786) 380-1981
 - LinkedIn: www.linkedin.com/in/nicolas-ramos-503056344
