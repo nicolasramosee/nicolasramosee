@@ -11,9 +11,6 @@ This portfolio showcases hands-on technical projects that I’ve developed or co
 ### 🔹 [Microstrip RF Interconnect Simulation](https://github.com/nicolasramosee/Microstrip-RF-Simulation)
 Simulates a 3-port microstrip structure with an open-circuited stub using the `scikit-rf` library. Analyzes S-parameters across a 1–10 GHz sweep to identify optimal impedance matching conditions and stub tuning effects.
 
-### 🔹 [Wideband Analog PLL Signal Generator](https://github.com/yourusername/wideband-analog-pll)
-Designed and simulated a VCO-based PLL signal generator for analog RF testing, roughly from kHz to 100 MHz. Includes loop filter tuning, phase noise analysis, and schematic documentation.
-
 
 
 ## 💻  Embedded Systems Projects
