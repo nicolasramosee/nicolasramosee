@@ -1,8 +1,8 @@
-# Hi, I'm Nicolas Ramos.
+# Hi, I'm Nicolas Ramos!
 
-I'm an Electrical Engineering graduate currently based in Miami, Florida with a focus on RF, analog systems, embedded systems, robot systems, and the systems-level and interdisciplinary asbtraction that involves these fields, as well as package technologies such as AiP and AoP systems. I enjoy designing RF integrated systems, simulating high-frequency circuits, and exploring the physics of electromagnetic and signal behavior, and how these fields intersect with robotic and embedded systems. I'm always eager to learn and actively seek opportunities to grow within these evolving fields.
-
-This portfolio showcases hands-on technical projects that I’ve developed or contributed to, each aimed at deepening my understanding of embedded systems, RF/microwave design, and applied electromagnetics.
+I’m an electrical engineering graduate focused on the physical and electromagnetic behavior of hardware systems, particularly how layout, materials, interference, and non-ideal effects influence real-world performance. My interests lie in understanding not just whether a system works, but why it behaves the way it does under practical constraints.
+My experience spans RF/microwave design, embedded firmware development, and system-level integration, connecting high-frequency hardware with real-time control and signal processing. I’m especially interested in mixed-signal and RF systems where physics, implementation, and validation intersect.
+I’m looking to continue growing in roles involving hardware development, characterization, and system integration across RF, communications, and embedded platforms.
 
 
 
