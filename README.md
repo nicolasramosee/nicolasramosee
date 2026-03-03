@@ -18,7 +18,7 @@ Simulates a 3-port microstrip structure with an open-circuited stub using the `s
 ### 🔹 [Study Space Occupancy System (IoT)](https://github.com/nicolasramosee/Study-Space-Availability-System)
 An ESP32-based occupancy monitoring system deployed within the University of Miami’s Richter Library. The system integrates VL53L5CX and VL53L1X LiDAR sensors, MEMS omnidirectional microphone-based audio analysis, and Wi-Fi sniffing to detect and estimate study area occupancy. A Firebase backend was used to enable real-time data updates and remote access to occupancy insights.
 
-### 🔹 [Study Space Occupancy System (IoT)](https://github.com/nicolasramosee/bms_simulator)
+### 🔹 [Battery Monitoring System](https://github.com/nicolasramosee/bms_simulator)
 A real-time Battery Monitoring System (BMS) Hardware-in-the-Loop simulator built with Node.js that streams high-frequency battery telemetry over a virtual UART link to a live web dashboard. The project demonstrates event-driven backend design, serial communication protocols, and real-time data visualization to replicate an embedded robotics telemetry pipeline end-to-end.
 
 
