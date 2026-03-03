@@ -34,6 +34,6 @@ A real-time Battery Monitoring System (BMS) Hardware-in-the-Loop simulator built
 
 
 **Get in Touch**  
-I'm always open to internships and full-time job opportunities, as well as RF, embedded systems, and robotics related project collaborations.  
+I'm always open to internships and full-time job opportunities, as well as RF and embedded systems related project collaborations.  
 - Email: nmree25@gmail.com
 - LinkedIn: www.linkedin.com/in/nicolas-ramos-503056344
