@@ -1,7 +1,7 @@
 # Hi, I'm Nicolas Ramos!
 
-I’m an electrical engineering graduate focused on the physical and electromagnetic behavior of hardware systems, particularly how layout, materials, interference, and non-ideal effects influence real-world performance. My interests lie in understanding not just whether a system works, but why it behaves the way it does under practical constraints.
-My experience spans RF/microwave design, embedded firmware development, and system-level integration, connecting high-frequency hardware with real-time control and signal processing. I’m especially interested in mixed-signal and RF systems where physics, implementation, and validation intersect.
+I’m an electrical engineering graduate focused on the physical and electromagnetic behavior of hardware systems, particularly how layout, materials, interference, and non-ideal effects influence real world performance. My interests lie in understanding not just whether a system works, but why it behaves the way it does under practical constraints.
+My experience spans RF/microwave design, embedded firmware development, and system level integration, connecting hardware with control and signal processing. I’m especially interested in mixed signal and RF systems where physics, implementation, and validation intersect.
 I’m looking to continue growing in roles involving hardware development, characterization, and system integration across RF, communications, and embedded platforms.
 
 
@@ -9,23 +9,23 @@ I’m looking to continue growing in roles involving hardware development, chara
 ## RF & Analog Projects
 
 ### 🔹 [Microstrip RF Interconnect Simulation](https://github.com/nicolasramosee/Microstrip-RF-Simulation)
-Simulates a 3-port microstrip structure with an open-circuited stub using the `scikit-rf` library. Analyzes S-parameters across a 1–10 GHz sweep to identify optimal impedance matching conditions and stub tuning effects.
+Simulates a 3-port microstrip structure with an open circuited stub using the `scikit-rf` library. Analyzes S-parameters across a 1–10 GHz sweep to identify optimal impedance matching conditions and stub tuning effects.
 
 
 
 ## Embedded Systems and Robotics Projects
 
-### 🔹 [Study Space Occupancy System (IoT)](https://github.com/nicolasramosee/Study-Space-Availability-System)
-An ESP32-based occupancy monitoring system deployed within the University of Miami’s Richter Library. The system integrates VL53L5CX and VL53L1X LiDAR sensors, MEMS omnidirectional microphone-based audio analysis, and Wi-Fi sniffing to detect and estimate study area occupancy. A Firebase backend was used to enable real-time data updates and remote access to occupancy insights.
+### 🔹 [Occupancy Detection System (IoT)](https://github.com/nicolasramosee/Study-Space-Availability-System)
+An ESP32 based occupancy monitoring system deployed within the University of Miami’s Richter Library. The system integrates VL53L5CX and VL53L1X LiDAR sensors, MEMS omnidirectional microphone based audio analysis, and WiFi sniffing to detect and estimate study area occupancy. A Firebase backend was used to enable real time data updates and remote access to occupancy insights.
 
-### 🔹 [Battery Monitoring System](https://github.com/nicolasramosee/bms_simulator)
-A real-time Battery Monitoring System (BMS) Hardware-in-the-Loop simulator built with Node.js that streams high-frequency battery telemetry over a virtual UART link to a live web dashboard. The project demonstrates event-driven backend design, serial communication protocols, and real-time data visualization to replicate an embedded robotics telemetry pipeline end-to-end.
+### 🔹 [Battery Monitoring System](https://github.com/nicolasramosee/BMS-Simulator)
+A real time Battery Monitoring System (BMS) Hardware-in-the-Loop simulator built with Node.js that streams battery telemetry over a virtual UART link to a live web dashboard. The project demonstrates event-driven backend design, serial communication protocols, and real time data visualization to replicate an embedded robotics telemetry pipeline.
 
 
 
 ## Softwares, Tools, & Skills
 
-- Python, C++, Javascript, HTML, MATLAB, Node.js, Arduino, 'scikit_rf', Jupyter
+- Python, C++, Linux, Javascript, HTML, MATLAB, Node.js, Arduino IDE, 'scikit_rf', Jupyter
 - Oscilloscope, Frequency Generator, Power Supply
 - Transmission line theory, S-parameters
 - RF test instrumentation and circuit simulation
